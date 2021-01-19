@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+.row {
+    .col-12 {
+        .bold {
+            font-weight: bold;
+        }
+    }
+}
+
+.btn-primary {
+    background-color: #f4a4ff;
+    border-color: #f4a4ff !important;
+}
