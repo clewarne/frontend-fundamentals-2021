@@ -21,4 +21,17 @@
         <button class="btn btn-primary">I am a Button - Why am I not pink?
         </button>
     </div>
+    
+    <div class="col-6 mt-4">
+        <input #myTextInput type="text" [(ngModel)]="textInput">
+        <app-button text="Add Item"
+            (onClick)="addItem(myTextInput.value)"></app-button>
+    </div>
+    <div class="col-6 mt-4">
+        <app-button text="Remove Item"
+            (onClick)="removeItem($event)"></app-button>
+    </div>
+    <div class="col-12 mt-3">
+        <div *ngFor="let item of list">{{item}}</div>
+    </div>
 </div>

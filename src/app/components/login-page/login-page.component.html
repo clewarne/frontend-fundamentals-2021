@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col-12 ">
+        <div class="row">
+            <div class="col-3">
+                Username:
+            </div>
+            <div class="col-6">
+                <input type="text"
+                    [(ngModel)]="loginForm.username"
+                    class="input" />
+            </div>
+        </div>
+    </div>
+    <div class="col-12 mt-2">
+        <div class="row">
+            <div class="col-3">
+                Password:
+            </div>
+            <div class="col-6">
+                <input type="password"
+                    [(ngModel)]="loginForm.password"
+                    class="input" />
+            </div>
+        </div>
+    </div>
+    <div class="col-6 mt-4">
+        <app-button text="Login"
+            (onClick)="login()"></app-button>
+    </div>
+</div>
