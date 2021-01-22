@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kNl80f5kBGAgIWLxYvBMv5v/75nSGEe6lB13DPQgskezUlLR7Ybdb4vKqVDPMdeXujR5eHs9gCdAzdmHRmMzQ==",
+  "dgSpecHash": "BgCEaix1g42CHX3LBtbTK24RsNf8KpvgU7XXdpHhN/STcTa90DisGD1AtbkdxlRHT+QBgImt70EeKaUPft0vDA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\2021 Frontend Fundamentals\\upside-down\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj",
+  "projectFilePath": "C:\\Dev\\frontend-fundamentals-2021\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

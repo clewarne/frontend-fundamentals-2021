@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\2021 Frontend Fundamentals\\upside-down\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj": {}
+    "C:\\Dev\\frontend-fundamentals-2021\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\2021 Frontend Fundamentals\\upside-down\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj": {
+    "C:\\Dev\\frontend-fundamentals-2021\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\2021 Frontend Fundamentals\\upside-down\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj",
+        "projectUniqueName": "C:\\Dev\\frontend-fundamentals-2021\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj",
         "projectName": "FrontendFundamentalsAPI",
-        "projectPath": "C:\\Dev\\2021 Frontend Fundamentals\\upside-down\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj",
+        "projectPath": "C:\\Dev\\frontend-fundamentals-2021\\FrontendFundamentalsAPI\\FrontendFundamentalsAPI.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\2021 Frontend Fundamentals\\upside-down\\FrontendFundamentalsAPI\\obj\\",
+        "outputPath": "C:\\Dev\\frontend-fundamentals-2021\\FrontendFundamentalsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
